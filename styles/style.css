@@ -52,7 +52,8 @@ body {
 }
 
 .advice #advice-number {
-  padding: 2em;
+  padding: 2rem 0 1.25rem 0;
+  font-size: 0.75rem;
   color: #52ffa8;
   letter-spacing: 0.2em;
   text-transform: uppercase;
@@ -74,6 +75,7 @@ body {
   background-color: #52ffa8;
   width: 50px;
   height: 50px;
+  border: none;
   border-radius: 50%;
   display: -webkit-box;
   display: -ms-flexbox;
