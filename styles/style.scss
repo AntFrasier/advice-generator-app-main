@@ -78,6 +78,10 @@ body {
     align-items: center;
     cursor: pointer;
 
+    &:hover {
+        box-shadow: 0 0 25px $neon-green;
+    }
+
     img{
         transform : scale(0.8);
     }
